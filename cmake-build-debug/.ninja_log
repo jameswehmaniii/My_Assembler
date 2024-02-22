@@ -1,0 +1,13 @@
+# ninja log v5
+3	57	7302838411838593	CMakeFiles/Assembler_2.dir/opcodes.c.obj	5412c47926c00ca4
+9	62	7302838411889145	CMakeFiles/Assembler_2.dir/errors.c.obj	e9a85447fc0b859c
+71	153	7302838412775681	Assembler_2.exe	94a340d3c63d9c5
+11	67	7302838411939312	CMakeFiles/Assembler_2.dir/symbols.c.obj	79bbe374490a130d
+6	67	7302838411949286	CMakeFiles/Assembler_2.dir/directives.c.obj	8cf56292da974321
+0	71	7302838411979286	CMakeFiles/Assembler_2.dir/main.c.obj	41e018a8b94d6a3f
+4	59	7302839053879117	CMakeFiles/Assembler_2.dir/opcodes.c.obj	e37994f12aef6c09
+7	59	7302839053879117	CMakeFiles/Assembler_2.dir/errors.c.obj	6770e3fe74204e9d
+9	72	7302839054009288	CMakeFiles/Assembler_2.dir/directives.c.obj	e865ce48082a5c11
+11	74	7302839054035156	CMakeFiles/Assembler_2.dir/symbols.c.obj	908ed193f30f2758
+1	76	7302839054045153	CMakeFiles/Assembler_2.dir/main.c.obj	5e382e14061e3edb
+76	133	7302839054596012	Assembler_2.exe	94a340d3c63d9c5
